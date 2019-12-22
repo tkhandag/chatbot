@@ -16,4 +16,4 @@ Django == 1.11.5
 chatbotAI == 0.1.2.4
 
 # alpha/views.py: 4
-requests == 2.9.1
+requests == 2.20.0
