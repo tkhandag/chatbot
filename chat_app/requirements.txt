@@ -10,7 +10,7 @@
 # chat_app/urls.py: 16,17
 # chat_app/wsgi.py: 12
 # manage.py: 8
-Django == 1.11.5
+Django == 1.11.29
 
 # alpha/views.py: 3
 chatbotAI == 0.1.2.4
